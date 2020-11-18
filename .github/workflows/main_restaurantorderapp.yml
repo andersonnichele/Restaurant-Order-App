@@ -20,6 +20,9 @@ jobs:
       with:
         dotnet-version: '3.1.102'
 
+    - name: Run automatized tests
+      run: dotnet test ${{ secrets.TEST_PROJECT_PATH }} --verbosity minimal
+      
     - name: Build with dotnet
       run: dotnet build --configuration Release
 
