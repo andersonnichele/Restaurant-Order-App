@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RestaurantOrder.Api", "Rest
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RestaurantOrder.IntegrationTests", "RestaurantOrder.IntegrationTests\RestaurantOrder.IntegrationTests.csproj", "{7650C9A2-0E8D-484C-8D12-588B78581D92}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestaurantOrderApp.Client", "RestaurantOrderApp.Client\RestaurantOrderApp.Client.csproj", "{D21A065D-B524-41C0-A80A-4F19252AF629}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{7650C9A2-0E8D-484C-8D12-588B78581D92}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7650C9A2-0E8D-484C-8D12-588B78581D92}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7650C9A2-0E8D-484C-8D12-588B78581D92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D21A065D-B524-41C0-A80A-4F19252AF629}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D21A065D-B524-41C0-A80A-4F19252AF629}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D21A065D-B524-41C0-A80A-4F19252AF629}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D21A065D-B524-41C0-A80A-4F19252AF629}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
