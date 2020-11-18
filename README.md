@@ -1,3 +1,5 @@
+![Build and deploy ASP.Net Core app to Azure Web App](https://github.com/andersonnichele/Restaurant-Order-App/workflows/Build%20and%20deploy%20ASP.Net%20Core%20app%20to%20Azure%20Web%20App%20-%20restaurantorderapp/badge.svg?branch=main)
+
 # Restaurant-Order-App
 
 This is a simple app with an API + Tests
